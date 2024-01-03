@@ -1,0 +1,46 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+mgtoj-backend-common/src/.DS_Store
+mgtoj-backend-common/.DS_Store
+mgtoj-backend-gateway/src/.DS_Store
+mgtoj-backend-gateway/.DS_Store
+mgtoj-backend-judge-service/src/main/resources/application-dev.yml
+mgtoj-backend-judge-service/.DS_Store
+mgtoj-backend-judge-service/src/.DS_Store
+mgtoj-backend-model/src/.DS_Store
+mgtoj-backend-model/.DS_Store
+.DS_Store
+mgtoj-backend-question-service/src/main/resources/application-dev.yml
+mgtoj-backend-user-service/src/main/resources/application-dev.yml
+mgtoj-backend-user-service/src/main/java.zip
